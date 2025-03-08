@@ -7,7 +7,8 @@
 		/datum/reagent/medicine/c2/multiver,\
 		/datum/reagent/medicine/salglu_solution,\
 		/datum/reagent/medicine/spaceacillin,\
-		/datum/reagent/medicine/lidocaine\
+		// DOPPLER EDIT
+		/datum/reagent/medicine/lidocaine\ 
 	)
 #define EXPANDED_MEDICAL_REAGENTS list(\
 		/datum/reagent/medicine/haloperidol,\
